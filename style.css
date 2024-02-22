@@ -14,3 +14,8 @@ h1 {
     margin: 0;
     padding: 5px;
 }
+
+.logo {
+    border: solid medium white;
+    box-shadow: 3px 3px 3px gray;
+}
