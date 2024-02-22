@@ -7,15 +7,16 @@
 }
 
 h1 {
-    text-align: center;
+    text-align: right;
 }
 
 .container {
-    margin: 0;
-    padding: 5px;
+    margin: 1rem;
+    padding: 2rem;
 }
 
 .logo {
-    border: solid medium white;
-    box-shadow: 3px 3px 3px gray;
+    border: solid thick white;
+    box-shadow: 3px 3px 3px darkgray;
+    border-radius: 50%;
 }
