@@ -3,11 +3,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: darkblue
+    color: blue;
 }
 
 h1 {
-    text-align: left;
+    text-align: center;
 }
 
 .container {
